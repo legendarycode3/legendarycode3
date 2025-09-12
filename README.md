@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nathaniel Maduchem
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'am Nathaniel Maduchem
 ===========================================================================================================================================
 
-Skills and Tech Stack
+Skills and Tech Stack 
 ---------------------
 
 ⦿ Blockchain Developement: Solidity , Hardhat.
