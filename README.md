@@ -14,7 +14,7 @@ Skills and Tech Stack
 
 ⦿ Other: Base Developer Platform.
 
-* ✉️  You can contact me at [legendarycodesites@gmail.com](mailto:legendarycodesites@gmail.com)
+* ✉️  For collaboration and more, You can contact me at [legendarycodesites@gmail.com](mailto:legendarycodesites@gmail.com)
 * 👥  I'm looking to collaborate on Open Source Projects
 * 💬  Ask me about anything about Blockchain, Web3, Web Development, Open Source .
 * I'm LegendaryCode
