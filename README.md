@@ -18,7 +18,7 @@ I am a Software Engineer specializing in Web3 and Blockchain development.
 
 * ✉️  For collaboration and more, You can contact me at [legendarycodesites@gmail.com](mailto:legendarycodesites@gmail.com)
 * 👥  I'm looking to collaborate on Open Source Projects
-* 💬  Ask me anything about JavaScript , Solidity, Blockchain, Web Development.
+* 💬  Ask me anything about JavaScript , Solidity, C, Blockchain, Web Development.
 * I'm LegendaryCode
 * Aside from coding amazing projects, I enjoy creating technical content on my YouTube channel https://www.youtube.com/@LegendaryCodeTech . 
 
