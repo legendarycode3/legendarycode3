@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Skills and Tech Stack 
 ---------------------
 
-⦿ Blockchain Developement: Solidity , Hardhat.
+⦿ Blockchain Developement: Solidity , Foundry , Hardhat.
 
 ⦿ Front-End Development Skills: JavaScript, CSS, React.js, Next.js.
 
