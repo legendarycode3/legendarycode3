@@ -6,7 +6,7 @@ Skills and Tech Stack
 
 ⦿ Blockchain Developement: Solidity , Foundry , Hardhat.
 
-⦿ Front-End Development Skills: JavaScript, CSS, React.js, Next.js.
+⦿ Front-End Development Skills: JavaScript, TypeScript, CSS, React.js, Next.js.
 
 ⦿ Back-End Development Skills: Nodejs, Expressjs, MongoDB
 
