@@ -14,7 +14,7 @@ Skills and Tech Stack
 
 ⦿ Other: Base Developer Platform.
 
-I am a Software Engineer specializing in Web3 and Blockchain development.
+****I am a Software Engineer specializing in Web3 and Blockchain development (Passionate Blockchain developer)****.
 
 * ✉️  For collaboration and more, You can contact me at [legendarycodesites@gmail.com](mailto:legendarycodesites@gmail.com)
 * 👥  I'm looking to collaborate on Open Source Projects
