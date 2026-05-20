@@ -4,21 +4,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Skills and Tech Stack 
 ---------------------
 
-⦿ Blockchain Developement: Solidity , Foundry , Hardhat.
+⦿ ****Blockchain Developement****: Solidity , Foundry , Hardhat.
 
-⦿ Front-End Development Skills: JavaScript, TypeScript, CSS, React.js, Next.js.
+⦿ ****Front-End Development****: JavaScript, TypeScript, CSS, React.js, Next.js.
 
-⦿ Back-End Development Skills: Nodejs, Expressjs, MongoDB
+⦿ Back-End Development****: Nodejs, Expressjs, MongoDB
 
-⦿ Developer Tools: Web3.js, Ether.js, hardhat, OnchainKit, Farcaster.
+⦿ ****Developer Tools****: Web3.js, Ether.js, hardhat, OnchainKit, Farcaster.
 
-⦿ Other: Base Developer Platform.
+⦿ ****Other****: Base Developer Platform.
 
 ****I am a Software Engineer specializing in Web3 and Blockchain development (Passionate Blockchain developer)****.
 
 * ✉️  For collaboration and more, You can contact me at [legendarycodesites@gmail.com](mailto:legendarycodesites@gmail.com)
 * 👥  I'm looking to collaborate on Open Source Projects
-* 💬  Ask me anything about JavaScript , Solidity, Blockchain, Web Development.
+* 💬  Ask me anything about JavaScript , Solidity, Blockchain, Web Development, Web3.
 * I'm LegendaryCode
 
 <p align="left">
