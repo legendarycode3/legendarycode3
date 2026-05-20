@@ -8,7 +8,7 @@ Skills and Tech Stack
 
 ⦿ ****Front-End Development****: JavaScript, TypeScript, CSS, React.js, Next.js.
 
-⦿ Back-End Development****: Nodejs, Expressjs, MongoDB
+⦿ ****Back-End Development****: Nodejs, Expressjs, MongoDB
 
 ⦿ ****Developer Tools****: Web3.js, Ether.js, hardhat, OnchainKit, Farcaster.
 
