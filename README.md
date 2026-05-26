@@ -6,9 +6,9 @@ Skills and Tech Stack
 
 ⦿ ****Blockchain Developement****: Solidity , Foundry , Hardhat.
 
-⦿ ****Front-End Development****: JavaScript, TypeScript, CSS, React.js, Next.js.
+⦿ ****Front-End Development****: JavaScript, TypeScript, CSS, Tailwindcss , React.js, Next.js
 
-⦿ ****Back-End Development****: Nodejs, Expressjs, MongoDB
+⦿ ****Back-End Development****: Nodejs, Expressjs, MongoDB, PostgreSQL
 
 ⦿ ****Developer Tools****: Web3.js, Ether.js, hardhat, OnchainKit, Farcaster.
 
