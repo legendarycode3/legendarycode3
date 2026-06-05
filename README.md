@@ -67,6 +67,10 @@ Skills / Tech Stack
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 
 
 
