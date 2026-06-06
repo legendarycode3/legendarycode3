@@ -33,7 +33,7 @@ Skills / Tech Stack
  <a href="https://x.com/legendary_code_?s=20" target="_blank">
   <img
     src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge"
-    height="35"
+    height="35" width="50"
     alt="Twitter logo"
   />
 </a>
