@@ -13,6 +13,8 @@ Skills / Tech Stack
 
 ⦿ ****Developer Tools****: Web3.js, Ether.js, hardhat, OnchainKit, Farcaster.
 
+⦿ ****Security & Optimization****:
+
 ⦿ ****Other****: Base Developer Platform.
 
 ****I am a Software Engineer specialized in Web3 / Blockchain development (Passionate Blockchain Engineer)****.
