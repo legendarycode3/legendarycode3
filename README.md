@@ -13,7 +13,7 @@ Skills / Tech Stack
 
 ⦿ ****Developer Tools****: Web3.js, Ether.js, hardhat, OnchainKit, Farcaster.
 
-⦿ ****Security & Optimization****:  Gas Optimization,
+⦿ ****Security & Optimization****:  Gas Optimization, Reentrancy Protection, 
 
 ⦿ ****Other****: Base Developer Platform.
 
