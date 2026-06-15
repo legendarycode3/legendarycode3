@@ -3,9 +3,12 @@
 A full-stack EVM `Web3 developer`, looking forward to work on web 3 startups.
 
 ##  🚀 ABOUT ME
-Senior Software Engineer with 6+ years of experience designing and building scalable, secure, and high-impact products across both Web2 and Web3 ecosystems. Driven by first-principles thinking, I enjoy breaking down complex problems and creating efficient, reliable solutions from the ground up.
+### Senior Software Engineer | Web3 Builder
 
-My expertise spans performance optimization, security, and blockchain development. I’m passionate about developing smart contracts, decentralized applications (dApps). I thrive in environments that challenge conventional thinking and encourage innovation, collaboration, and engineering excellence.
+I'm a Senior Software Engineer with 6+ years of experience designing and building scalable, secure, and high-performance systems. Guided by first-principles thinking, I enjoy solving complex engineering challenges through clean architecture, efficient design, and robust engineering practices.
+
+My expertise spans Web2 and Web3 technologies, including smart contracts, distributed systems, decentralized applications (dApps), and performance optimization. I'm passionate about building reliable, impactful products and contributing to technologies that shape the future of the internet.
+
 
 
 Skills / Tech Stack 
