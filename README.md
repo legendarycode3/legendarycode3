@@ -2,7 +2,7 @@
 ===========================================================================================================================================
 A full-stack EVM `Web3 developer`, looking forward to work on web 3 startups.
 
-##  🚀 ABOUT ME
+##  🙋🏻‍♀️ ABOUT ME
 ### Software Engineer | Web3 Builder
 
 I'm a Software Engineer with 6+ years of experience designing and building scalable, secure, and high-performance systems. Guided by first-principles thinking, I enjoy solving complex engineering challenges through clean architecture, efficient design, and robust engineering practices.
