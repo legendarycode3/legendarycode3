@@ -3,9 +3,9 @@
 A full-stack EVM `Web3 developer`, looking forward to work on web 3 startups.
 
 ##  🚀 ABOUT ME
-### Senior Software Engineer | Web3 Builder
+### Software Engineer | Web3 Builder
 
-I'm a Senior Software Engineer with 6+ years of experience designing and building scalable, secure, and high-performance systems. Guided by first-principles thinking, I enjoy solving complex engineering challenges through clean architecture, efficient design, and robust engineering practices.
+I'm a Software Engineer with 6+ years of experience designing and building scalable, secure, and high-performance systems. Guided by first-principles thinking, I enjoy solving complex engineering challenges through clean architecture, efficient design, and robust engineering practices.
 
 My expertise spans Web2 and Web3 technologies, including `smart contracts`, `decentralized applications (dApps)`, `performance optimization` and `blockchain development`. I'm passionate about building reliable, impactful products and contributing to technologies that shape the future of the internet.
 
@@ -26,8 +26,8 @@ Skills / Tech Stack
 
 ⦿ ****Other****: Base Developer Platform.
 
-****I am a Software Engineer specialized in Web3 / Blockchain development (Passionate Blockchain Engineer)****.
 
+****A Software Engineer specialized in Web3 / Blockchain development (Passionate Blockchain Engineer)****.
 * ✉️  For collaboration and more, You can contact me at [legendarycodesites@gmail.com](mailto:legendarycodesites@gmail.com)
 * 👥  I'm looking to collaborate on Open Source Projects
 * 💬  Ask me anything about JavaScript , Solidity, Blockchain, Web Development, Web3.
