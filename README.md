@@ -1,6 +1,6 @@
 𝓗𝒾 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'am Nathaniel 
 ===========================================================================================================================================
-An EVM chain `Web3 developer`, looking forward to work on web 3 startups.
+I'm a `Web2` & `Web3 developer` passionate about building scalable products and collaborating with startups.
 
 ##  🙋🏻‍♀️ ABOUT ME
 ### Software Engineer | Web3 Builder
