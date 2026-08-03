@@ -7,7 +7,7 @@ I'm a `Full-Stack Web3` developer specializing in the EVM ecosystem, passionate 
 
 I'm a Software Engineer with 6+ years of experience designing and building scalable, secure, and high-performance systems. Guided by first-principles thinking, I enjoy solving complex engineering challenges through clean architecture, efficient design, and robust engineering practices.
 
-My expertise spans *Web2 and Web3 technologies*, including `smart contracts` , `performance optimization` and `blockchain development`. I'm passionate about building reliable, impactful products and contributing to technologies that shape the future of the internet.
+My expertise spans **Web2 and Web3 technologies** , including `smart contracts` , `performance optimization` and `blockchain development`. I'm passionate about building reliable, impactful products and contributing to technologies that shape the future of the internet.
 
 
 
