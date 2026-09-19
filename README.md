@@ -1,9 +1,9 @@
 𝓗𝒾 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'am Nathaniel 
 ===========================================================================================================================================
-I'm a `Full-Stack Web3` developer specializing in the EVM ecosystem, passionate about building scalable products and collaborating with startups.
+I'm a *`Full-Stack Web3`& developer specializing in the EVM ecosystem, passionate about building scalable products and collaborating with startups.
 
 ##  🙋🏻‍♀️ ABOUT ME
-### Software Engineer | Web3 Builder
+### Web2 Builder | Web3 Builder
 
 I'm a Software Engineer with 6+ years of experience designing and building scalable, secure, and high-performance systems. Guided by first-principles thinking, I enjoy solving complex engineering challenges through clean architecture, efficient design, and robust engineering practices.
 
